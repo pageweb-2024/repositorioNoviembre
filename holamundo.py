@@ -1,4 +1,7 @@
+import pandas as pd
+
 print("hola mundo")
+print("el pandas")
 
 numero1 = 25
 numero2 = 45
