@@ -6,8 +6,9 @@ print("el pandas")
 numero1 = 25
 numero2 = 45
 
+print("estas son las operaciones principales")
 resultadoSuma = numero1 + numero2
-resultadoresta = numero2 - numero2
+resultadoresta = numero1 - numero2
 resultadomultiplicacion = numero1 * numero2
 resultadodivision = numero1 / numero2
 
